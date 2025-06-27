@@ -47,22 +47,22 @@ This is the set of principles that relate back to the formal `Applied Rigor` ker
 * **The Handshake Axiom**
     * **Principle:** Before beginning any collaborative work, a contract must be established that explicitly defines the evidence to be gathered and the standard of proof required for a decision.
     * *Fuzzy Isomorphism: The Axiom of Mutual Understanding*
-* **The Focus Axiom**
+* **The Applied Focus Axiom**
     * **Principle:** The effective allocation of finite attention requires the deliberate and strategic choice to ignore good opportunities in order to pursue great ones.
     * *Fuzzy Isomorphism: The Axiom of Choice*
-* **The MVP Axiom**
+* **The Minimum Viable Product Axiom**
     * **Principle:** To ensure velocity, one must build pragmatically using incomplete information, while rigorously cataloging all deferred work and assumptions as a managed debt.
     * *Fuzzy Isomorphism: The Axiom of Tensor Construction*
 
 #### **Part III: The Strategic Co-Processor (Principles of Advanced Navigation)**
 
-* **The Head-Up Display Postulate**
+* **The General Context Postulate**
     * **Principle:** An agent's field of opportunity is defined by their awareness of the wider system, particularly the parallel initiatives they are not yet causally connected to.
     * *Fuzzy Isomorphism: The Postulate of Exposed Topology*
-* **The Signal Axiom**
+* **The Experimental Signal Axiom**
     * **Principle:** In an unpredictable system, the correct path is found not by prediction, but by running small experiments ("probes") and aligning with the strongest underlying trend ("signal") they reveal.
     * *Fuzzy Isomorphism: The Postulate of Eigenvalue Navigation*
-* **The Current Axiom**
+* **The Rip Tide Axiom**
     * **Principle:** An individual's work does not exist in a vacuum; it will be transformed by the powerful, often unspoken, strategic currents of the larger organization. Align with these currents to amplify impact.
     * *Fuzzy Isomorphism: The Axiom of the Lie*
 * **The Postulate of Invested Resources**
