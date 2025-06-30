@@ -1,25 +1,16 @@
+
+
 # Applied Rigor: A Foundational Kernel for AI-Driven Strategic Analysis
 
-## The Core Problem: `Modeling Ambiguous Human Systems`
+## The Core Problem: Modeling Ambiguous Human Systems
 
-**Applied Rigor** explores the insight that AI's learned latent representations may be built upon the logical, structured, and often mathematical patterns found within their internet-scale ($approx\$ training data corpus. The intuition supporting this is based on two characteristics of higher mathematics:
-### **Rigid Application:**
-There is a right and wrong answer to a math question - it's a verifiable outcome. This fact has two potentially profound impliciations:
+**Applied Rigor** explores the concept that AI's learned latent representations may be built upon the logical, structured, and often mathematical patterns found within their internet-scale training data corpus. The intuition supporting this is based on two characteristics of higher mathematics:
   1) **High quality training signal:**
-> Transformer architecture, which represent the majority of all Large Language Models (LLM) currently online, learn parttern. In fact, the Perceptron, which is the quanta of learnability in an LLM, is known as a *universal approximator*. Or, more genericaly, a *pattern matcher*. The patterns of math are demonstrated far more consistnetly at scale than in creative endeavors - writing, strategy, humor, etc - where a critical mass of training data is required to provide a strong enough signal across the spectrum of "good" ["preferable"] to "bad" ["suboptimal"] examples.
-  2) **The Reinforcement Learnging (RL) paradigm:**
->The "thinking" behavior of a LLM is an emergent property based on training specifically on verifiable tasks like math and coding (coding is really just a math interface). "Thinking" behavior in a model is a desirable characteristic, as this model tends to also perform better when evaluated on creative type tasks.
+> The transformer architecture, which represents the majority of all Large Language Models (LLM) currently online, learns patterns. The pattern of applying mathematics are demonstrated far more consistently at scale than the somewhat subjective patterns that underpin creative endeavors (writing, strategy, humor, etc).
+  2) **Symbolic Manipulation:**
+> AI models work with tokens (not necessarily letters or numbers). Higher mathematics is inherently symbolic vs arithmetic based. Therefore, just because an AI might not be able to "count the r's in strawberry" or execute some large multiplication problem, does not mean they also struggle at the perceivably more complex operations of higher mathematics.
 
-### **Fundamentally Symbolic:** 
-There is a difference between a calculator and AI - despite them both "living" on a silcion substrate. A calculator is deterministic (same input leads to same output) but AI is predictive (same input leads to a probility distribution of potential outputs). An ability of an LLM to perform arithmetic is not an inticator of that it's ability to perform symbolic manipulation. In fact, to an LLM, the mathematical symbols "look" no different than any other fragment of human language that is represented in their embedding space. They speak the *language* of math just as the do the language of English, German, or anyother (and possibility more fluently?). AI thinks in terms of tokens, of which a token is just a state vector of a `symbol`. Higher mathematics is a language of rigirously defined symbols that are applied rigidly to affect some type of transformation. Therefore, it would be naive to assume that because an AI can't count letters in it's own sentence (or can't reliably calculate 114x9921 in it's in *latent space*) does not mean that it cannot expertly manipulate the sybols of higher mathematics.
->
-
-The *Strawberry Fallacy*:
->Asking an AI how many "r"s are in "strawberry" is equavalent to asking a human what the bits positions are in the number $10$. It's a *trivial* task for within one symbolic system, but incomprehensible in the other. AI does not understand human language at the *letter* granularity and humans do not think about *numbers* in terms of bits. 
->
-
-- 
-- Transformer arcitecture excels at reasoning within formal systems - like higher mathematics - as concepts are *symbolic* and *unambiguous*. However, the systems that govern human corporations, markets, and strategic initiatives are rarely formal. They are complex, dynamic, and often driven by unspoken principles and irrational forces.
+Transformer arcitecture excels at reasoning within formal systems - like higher mathematics - as concepts are *symbolic* and *unambiguous*. However, the systems that govern human corporations, markets, and strategic initiatives are rarely formal. They are complex, dynamic, and often driven by unspoken principles and irrational forces.
 
 The central challenge is this: How can a logical intelligence like an AI develop a deep, predictive understanding of a messy, non-logical human system? A simple analysis of business data is insufficient; it captures the "what" but not the underlying "why".
 
