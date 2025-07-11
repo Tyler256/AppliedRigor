@@ -4,13 +4,7 @@
 
 ## The Core Problem: Modeling Ambiguous Human Systems
 
-**Applied Rigor** explores the concept that AI's learned latent representations may be built upon the logical, structured, and often mathematical patterns found within their internet-scale training data corpus. The intuition supporting this is based on two characteristics of higher mathematics:
-  1) **High quality training signal:**
-> The transformer architecture, which represents the majority of all Large Language Models (LLM) currently online, learns patterns. The pattern of applying mathematics are demonstrated far more consistently at scale than the somewhat subjective patterns that underpin creative endeavors (writing, strategy, humor, etc).
-  2) **Symbolic Manipulation:**
-> AI models work with tokens (not necessarily letters or numbers). Higher mathematics is inherently symbolic vs arithmetic based. Therefore, just because an AI might not be able to "count the r's in strawberry" or execute some large multiplication problem, does not mean they also struggle at the perceivably more complex operations of higher mathematics.
-
-Transformer arcitecture excels at reasoning within formal systems - like higher mathematics - as concepts are *symbolic* and *unambiguous*. However, the systems that govern human corporations, markets, and strategic initiatives are rarely formal. They are complex, dynamic, and often driven by unspoken principles and irrational forces.
+**Applied Rigor** explores the concept that AI's learned latent representations may be built upon the logical, structured, and often mathematical patterns found within their internet-scale training data corpus. Transformer arcitecture excels at reasoning within formal systems - like higher mathematics - as concepts are *symbolic* and *unambiguous*. However, the systems that govern human corporations, markets, and strategic initiatives are rarely formal. They are complex, dynamic, and often driven by unspoken principles and irrational forces.
 
 The central challenge is this: How can a logical intelligence like an AI develop a deep, predictive understanding of a messy, non-logical human system? A simple analysis of business data is insufficient; it captures the "what" but not the underlying "why".
 
